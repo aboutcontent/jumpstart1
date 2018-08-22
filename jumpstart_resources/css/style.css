@@ -1,0 +1,26 @@
+html{
+font-family: 'Open Sans', sans-serif;
+font-size: 14px;
+}
+
+.activelink a{
+  border: 2px solid red;
+  color: blue;
+}
+
+.activelink:active{
+color: #399bd1;
+}
+.activelink:hover{
+color: #399bd1;
+}
+.navbar .activelink a:hover{
+color: #399bd1;
+}
+
+.navbar {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+ 
